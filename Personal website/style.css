@@ -8,5 +8,8 @@ background-image:url(12.jpg);
 	margin: 1px auto;
 	position: relative;
 	display: block;
+	border-radius:50%;
+	top:40px;
+	left:-10px;
 
 }
