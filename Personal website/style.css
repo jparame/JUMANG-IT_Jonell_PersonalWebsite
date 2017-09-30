@@ -1,6 +1,8 @@
 body
 {
-background-image:url(dd.jpg);
+background-image:url(12.jpg);
+background-repeat:no-repeat;
+background-size:100%;
 }
 .myimage{
 	width: 250px;
@@ -11,5 +13,6 @@ background-image:url(dd.jpg);
 	border-radius:50%;
 	top:40px;
 	left:-10px;
+	image-repeat:no repeat;
 
 }
