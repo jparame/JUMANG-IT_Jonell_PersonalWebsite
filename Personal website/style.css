@@ -85,3 +85,10 @@ ul li a:hover:before
 	box-shadow: 0 0 15px yellow;
 
 }
+ul li a:hover
+{
+	color: yellow;
+	box-shadow: 0 0 5px yellow;
+	text-shadow: 0 0 5px yellow;
+
+}
